@@ -7,3 +7,6 @@
 - My vision is to play a vital role in the IT industry after my bachelors
 
 [Algorithm and Pseudo code .pdf](https://github.com/user-attachments/files/16823732/Algorithm.and.Pseudo.code.pdf)
+
+# PF LAB 2 
+# INTRODUCTION TO C LANGUAGE
